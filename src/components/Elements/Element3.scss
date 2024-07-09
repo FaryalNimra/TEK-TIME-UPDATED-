@@ -1,0 +1,31 @@
+.container {
+  padding: 20px;
+  margin: 0 auto;
+  width: 90%;
+  padding-left: 100px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.col-md-4 {
+  padding: 15px;
+}
+
+.text-center {
+  text-align: center;
+}
+
+h2 {
+  font-size: 28px;
+  margin-bottom: 10px;
+  font-family: 'Gilroy-Bold', sans-serif;
+  text-align: center; /* Align heading center */
+}
+
+p1 {
+  font-size: 14px;
+  color: #161C2D  ;
+  font-family: 'Gilroy-regular', sans-serif;
+  max-width: 80%;
+  margin: 0 auto; /* Center-align paragraph */
+}

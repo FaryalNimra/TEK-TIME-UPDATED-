@@ -1,0 +1,39 @@
+.element9-container {
+  margin: 0 auto;
+  text-align: center;
+  font-family: 'Gilroy-Bold', sans-serif;
+  margin-bottom: 50px;
+}
+
+.element9-heading {
+  font-size: 24px;
+  margin-bottom: 5px;
+  font-family: 'Gilroy-Bold', sans-serif;
+}
+
+.element9-paragraph1 {
+  font-size: 14px;
+  color: black;
+  margin-bottom: 50px;
+  font-family: 'Gilroy-Regular', sans-serif;
+}
+
+.element9-subheading {
+  font-size: 20px;
+  margin-bottom: 10px;
+  font-family: 'Gilroy-Bold', sans-serif;
+}
+
+.element9-subparagraph {
+  font-size: 13px;
+  font-family: 'Gilroy-Regular', sans-serif;
+  text-align: center; /* Center align the text */
+  margin: 0 auto; /* Center the container */
+  width: 50%; /* Set the width to make sure the text wraps into two lines */
+  white-space: normal; /* Ensure text wraps */
+}
+
+.img-fluidn1 {
+  max-width: 100%;
+  height: auto;
+}

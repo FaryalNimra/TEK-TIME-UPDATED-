@@ -1,0 +1,39 @@
+.element4-container {
+  padding: 20px;
+}
+
+.element4-heading {
+  padding-left: 30px;
+  text-align: left;
+  margin-top: 35px;
+  font-size: 25px;
+  margin-bottom: 10px;
+  font-family: 'Gilroy-Bold', sans-serif;
+}
+
+.element4-paragraph {
+  margin-top: 20px;
+  font-size: 15px;
+  margin-bottom: 20px;
+  font-family: 'Gilroy-Regular', sans-serif;
+  margin-left: 30px; /* Move paragraph to the right */
+}
+
+.img-fluid {
+  max-width: 130%;
+  height: auto;
+}
+
+.demo-link {
+  display: inline-flex;
+  align-items: left;
+  text-decoration: none;
+  color: #473BF0;
+  margin-top: 10px;
+}
+
+.demo-icon {
+  width: 20px; /* Adjust icon size */
+  height: 20px;
+  margin-left: 5px; /* Add space between text and icon */
+}
